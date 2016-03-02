@@ -28,7 +28,7 @@ def build_database():
 	routes = []
 	equips = ['32B', '330', '332', '333', '33F', '33X', '342', '343', '345', '346', '380', '388', '744', '747', '74E', '74F', '74H', '74M', '74N', '74T', '74X', '74Y', '772', '773', '777', '77F', '77L', '77W', '77X', '787', '788', '789']
 	oneworld = ['AA', 'BA', 'CX', 'QR', 'QF', 'MH', 'JL', 'JJ']
-	star_alliance = ['UA', 'LH', 'LX', 'NH', 'OZ', 'TG', 'SQ', 'CA', 'UA']
+	star_alliance = ['UA', 'LH', 'LX', 'NH', 'OZ', 'TG', 'SQ', 'CA']
 	skyteam = ['AF', 'KE', 'GA', 'CI', 'MU', 'CZ']
 	non_aligned = ['EY', 'EK', 'LY']
 	alliance_comprehension = {'oneworld': oneworld, 'star_alliance': star_alliance, 'skyteam': skyteam, 'non_aligned': non_aligned}
